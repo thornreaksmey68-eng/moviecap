@@ -92,7 +92,7 @@ header {
     display: flex;
     justify-content: flex-start;
     align-items: center;
-    background: linear-gradient(to right, rgba(0,0,0,0.8), transparent), url('/Assignment/photo.webp');
+    background: linear-gradient(to right, rgba(0,0,0,0.8), transparent), url('https://imgs.search.brave.com/j_OkHnfII2VXKYP6oSbPcDK_VIO6n6TRn2XXPIg1Ets/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93YWxs/cGFwZXJjYXQuY29t/L3cvZnVsbC85LzAv/Mi80MDI3Mi0xOTIw/eDEwODAtZGVza3Rv/cC0xMDgwcC1zcGlk/ZXItbWFuLW5vLXdh/eS1ob21lLWJhY2tn/cm91bmQtcGhvdG8u/anBn');
     background-size: cover;
     transition: background 0.6s ease-in-out;
 }
@@ -189,4 +189,5 @@ header {
 .sci li a {
     color: white;
     font-size: 20px;
+
 }
